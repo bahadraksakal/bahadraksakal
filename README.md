@@ -24,7 +24,7 @@
   <li><img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>Python SE</li>
   <li><img align="left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logoColor=white"/>C SE</li>
 </ul>
- <img src="./csharp-original.svg"></img>
+ <img src="./csharp-original.svg" width="72" height="24"/>
  ## ⭐ Projelerim
 * [Bankacılık Uygulaması](https://github.com/bahadraksakal/Java_Bahar_Donemi_Proje) 
 * [Üyelik Sistemi Web Projesi](https://github.com/bahadraksakal/Uyelik_Sistemi_Projesi_JSF_2.3)  
