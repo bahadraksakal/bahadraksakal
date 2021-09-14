@@ -2,8 +2,9 @@
   <style>
     
 html, body{
-  height: 100%;
-  font-weight: 800;
+ width: 960px;
+    height: 300px;
+    font-weight: 800;
 }
 body{
   font-family: Arial;
@@ -13,7 +14,7 @@ svg {
     font: 6.5em sans-serif;
     width: 860px;
     height: 300px;
-    margin: 0 auto;
+    margin: auto;
 }
 .text-copy {
     fill: none;
