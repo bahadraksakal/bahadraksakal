@@ -17,12 +17,12 @@
   <li><img align="left" src="./img/JavaSF.png" width="72" height="24" />JSF(2.3)</li>
   <li><img align="left" src="./img/primefaces_logo.png" width="72" height="24" />PrimeFaces Lib</li>
   <li><img align="left" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>Jqery</li>
-  <li><img align="left" src="./img/ajax_basic.png" width="72" height="24" alt="Ajax" />Ajax</li>
+  <li><img align="left" src="./img/ajax_basic.png" width="72" height="24" />Ajax</li>
   <li><img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white/>Html</li>
   <li><img align="left" ![Alt text](./img/csharp-original.svg) src="./img/csharp-original.svg" />C# SE</li>
   <li><img align="left" src="./img/ASPMVC.png" width="72" height="24" alt="ASP.NET" />ASP.NET</li>
   <li><img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>Python SE</li>
-  <li><img align="left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>C SE</li>
+  <li><img align="left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logoColor=white"/>C SE</li>
 </ul>
  
  ## ⭐ Projelerim
