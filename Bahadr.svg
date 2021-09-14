@@ -11,7 +11,7 @@ body{
 svg {
     display: block;
     font: 8.5em sans-serif;
-    width: 460px;
+    width: 860px;
     height: 300px;
     margin: 0 auto;
 }
@@ -48,7 +48,7 @@ svg {
 }
   </style>
 	<symbol id="s-text">
-		<text text-anchor="middle" x="40%" y="80%">BAHADIR AKSAKAL</text>
+		<text text-anchor="middle" x="50%" y="80%">BAHADIR AKSAKAL</text>
 	</symbol>
 
 	<g class = "g-ants">
