@@ -15,12 +15,12 @@
   <li><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/></li>
   <li><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></li>
   <li><img src="https://img.shields.io/badge/JSF(2.3) -FFFFFF?style=for-the-badge&logoColor=white" /></li>
-  <li><img src="https://img.shields.io/badge/PrimeFaces -FFFFFF?style=for-the-badge&logoColor==white /></li>
+  <li><img src="https://img.shields.io/badge/PrimeFaces -FFFFFF?style=for-the-badge&logoColor=white /></li>
   <li><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></li>
-  <li><img src="https://img.shields.io/badge/AJAX -FFFFFF?style=for-the-badge&logoColor==white/></li>
+  <li><img src="https://img.shields.io/badge/AJAX -FFFFFF?style=for-the-badge&logoColor=white/></li>
   <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white/></li>
-  <li><img src="https://img.shields.io/badge/C#   -E34F26?style=for-the-badge&logoColor=blue/></li>
-  <li><img src="https://img.shields.io/badge/ASP.NET-FFFFFF?style=for-the-badgelogoColor=blue" /></li>
+  <li><img src="https://img.shields.io/badge/C#   -E34F26?style=for-the-badge/></li>
+  <li><img src="https://img.shields.io/badge/ASP.NET-FFFFFF?style=for-the-badge"/></li>
   <li><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/></li>
   <li><img src="https://img.shields.io/badge/C       -00599C?style=for-the-badge&logoColor=white"/></li>
 </ul>
