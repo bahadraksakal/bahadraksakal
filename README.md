@@ -20,7 +20,7 @@
   <li><img src="./img/ajax_basic.png" width="72" height="24" />Ajax</li>
   <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white/>Html</li>
   <li><object data="./img/csharp.svg" width="72" height="24"/>C# SE</li>
-  <li><img src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=#512BD4&logoColor=blue" />ASP.NET</li>
+  <li><img src="https://img.shields.io/badge/ASP.NET-FFFFFF?style=for-the-badge&logo=#512BD4&logoColor=blue" />ASP.NET</li>
   <li><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>Python SE</li>
   <li><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>C SE</li>
 </ul>
