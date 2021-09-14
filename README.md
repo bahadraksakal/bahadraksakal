@@ -11,7 +11,7 @@
 <ul>
   <li><img src="https://img.shields.io/badge/Java SE   -ED8B00?style=for-the-badge&logo=java&logoColor=white"/></li>
   <li><img src="https://img.shields.io/badge/Java EE  -E75E1E?style=for-the-badge&logo=java&logoColor=white"/></li>
-  <li><img src="https://img.shields.io/badge/Apache Poi (Exel-Java-Database)-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/></li>
+  <li><img src="https://img.shields.io/badge/Apache Poi (Exel-Java-Database)-217346?style=for-the-badge"/></li>
   <li><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/></li>
   <li><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></li>
   <li><img src="https://img.shields.io/badge/JSF(2.3) -FFFFFF?style=for-the-badge&logoColor=white" /></li>
