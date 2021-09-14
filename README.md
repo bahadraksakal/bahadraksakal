@@ -8,7 +8,7 @@
 
 
 ## :computer: Yeteneklerim
-<img align="left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>J--ava SE <br/><br/>
+<img align="left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>--Java SE <br/><br/>
 <img align="left" src="https://img.shields.io/badge/Java EE-ff6600?style=for-the-badge&logo=java&logoColor=white"/>--Java EE <br/><br/>
 <img align="left" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>--Apache Poi (Exel-Java-Database)<br/><br/>
 <img align="left" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>--Selenium (JAVA) <br/><br/>
