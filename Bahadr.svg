@@ -11,7 +11,7 @@ body{
 svg {
     display: block;
     font: 8.5em sans-serif;
-    width: 960px;
+    width: 860px;
     height: 300px;
     margin: 0 auto;
 }
