@@ -8,20 +8,20 @@
 
 
 ## :computer: Yeteneklerim
-<img align="left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>Java SE <br/><br/>
-<img align="left" src="https://img.shields.io/badge/Java EE-ff6600?style=for-the-badge&logo=java&logoColor=white"/>Java EE <br/><br/>
-<img align="left" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>Apache Poi (Exel-Java-Database) <br/><br/>
-<img align="left" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>Selenium (JAVA) <br/><br/>
+<img align="left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>J--ava SE <br/><br/>
+<img align="left" src="https://img.shields.io/badge/Java EE-ff6600?style=for-the-badge&logo=java&logoColor=white"/>--Java EE <br/><br/>
+<img align="left" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>--Apache Poi (Exel-Java-Database) <br/><br/>
+<img align="left" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>--Selenium (JAVA) <br/><br/>
 <img align="left" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>MySQL <br/><br/>
-<img align="left" src="./img/javaSF.png" width="72" height="24" />JSF(2.3) <br/><br/>
-<img align="left" src="./img/primefaces_logo.png" width="72" height="24" />PrimeFaces Lib <br/><br/>
-<img align="left" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>Jqery <br/><br/>
+<img align="left" src="./img/javaSF.png" width="72" height="24" />--JSF(2.3) <br/><br/>
+<img align="left" src="./img/primefaces_logo.png" width="72" height="24" />--PrimeFaces Lib <br/><br/>
+<img align="left" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>--Jqery <br/><br/>
 <img align="left" src="./img/ajax_basic.png" width="72" height="24" />Ajax <br/><br/>
-<img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> Html <br/><br/>
-<img src="./csharp-original.svg" width="72" height="24"/><br/> C# SE  <br/><br/>
-<img align="left" src="./img/ASPMVC.png" width="72" height="24"/>ASP.NET <br/><br/>
-<img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>Python SE <br/><br/>
-<img align="left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logoColor=white"/>C SE <br/><br/>
+<img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />--Html <br/><br/>
+<img src="./csharp-original.svg" width="72" height="24"/>--C# SE  <br/><br/>
+<img align="left" src="./img/ASPMVC.png" width="72" height="24"/>--ASP.NET <br/><br/>
+<img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>--Python SE <br/><br/>
+<img align="left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logoColor=white"/>--C SE <br/><br/>
 
 
  ## ⭐ Projelerim
