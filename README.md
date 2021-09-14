@@ -17,7 +17,7 @@
 <img align="left" src="./img/primefaces_logo.png" width="72" height="24" />PrimeFaces Lib <br/>
 <img align="left" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>Jqery <br/>
 <img align="left" src="./img/ajax_basic.png" width="72" height="24" />Ajax <br/>
-<img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white/>Html <br/>
+<img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> Html <br/>
 C# SE  <br/>
 <img align="left" src="./img/ASPMVC.png" width="72" height="24"/>ASP.NET <br/>
 <img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>Python SE <br/>
