@@ -18,12 +18,12 @@
 <img align="left" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>Jqery <br/><br/>
 <img align="left" src="./img/ajax_basic.png" width="72" height="24" />Ajax <br/><br/>
 <img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> Html <br/><br/>
-C# SE  <br/><br/>
+<img src="./csharp-original.svg" width="72" height="24"/><br/> C# SE  <br/><br/>
 <img align="left" src="./img/ASPMVC.png" width="72" height="24"/>ASP.NET <br/><br/>
 <img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>Python SE <br/><br/>
 <img align="left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logoColor=white"/>C SE <br/><br/>
 
- <img src="./csharp-original.svg" width="72" height="24"/><br/>
+
  ## ⭐ Projelerim
 * [Bankacılık Uygulaması](https://github.com/bahadraksakal/Java_Bahar_Donemi_Proje) 
 * [Üyelik Sistemi Web Projesi](https://github.com/bahadraksakal/Uyelik_Sistemi_Projesi_JSF_2.3)  
