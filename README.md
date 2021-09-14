@@ -4,10 +4,10 @@
 
 ## 📖  Genel
 ⚡ **Merhaba, ben [Bahadır Aksakal](https://www.linkedin.com/in/bahad%C4%B1r-aksakal-360b721b7/). Orta-Büyük işletmeler için evrak ve iş yükünü azaltan kağıt kullanımını mümkün**
-**olduğunca en aza indiren iş-süreç takip yazılımları (ERP’ler) üzerinde çalışıyorum . Şuan [@Bursa Tehnik Üniversitesi](https://btu.edu.tr/) Bilgisayar Mühendsiliği 2. sınıf öğrencisiyim.**
+**olduğunca en aza indiren iş-süreç takip yazılımları (ERP’ler) üzerinde çalışıyorum . Şuan [@Bursa Tehnik Üniversitesi](https://btu.edu.tr/) Bilgisayar Mühendisliği 2. sınıf öğrencisiyim.**
 
 
-## :computer: KULLANDIĞIM TEKNOLOJİ VE DİLLER
+## :computer: Kullandığım Teknoloji Ve Diller
 <img align="left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>--Java SE <br/><br/>
 <img align="left" src="https://img.shields.io/badge/Java EE-ff6600?style=for-the-badge&logo=java&logoColor=white"/>--Java EE <br/><br/>
 <img align="left" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>--Apache Poi (Exel-Java-Database)<br/><br/>
