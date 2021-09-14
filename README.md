@@ -35,17 +35,17 @@ float: right;">
  
 
  
- ## ⭐ My projects
+ ## ⭐ Projelerim
 * [Bankacılık Uygulaması](https://github.com/bahadraksakal/Java_Bahar_Donemi_Proje) 
 * [Üyelik Sistemi Web Projesi](https://github.com/bahadraksakal/Uyelik_Sistemi_Projesi_JSF_2.3)  
 * [ApachePOI Lib ile Exel Çalışmaları](https://github.com/bahadraksakal/ApachePOI_Excell_Selenium_MySQL_Ornek)  
 * [Dil Tanıma](https://github.com/bahadraksakal/Guz_Donemi_Projem_1.Sinif-) 
 * [My computational biology project.This project maps gene sequences](https://github.com/bahadraksakal/Java_HBG_Project) 
 
-## 📬 Reach Me
+## 📬 Bana Ulaşın
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bahad%C4%B1r-aksakal-360b721b7/)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white])](bahadraksakal201@gmail.com)
+
 <br/> 
 <p align="center">	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bahadraksakal&show_icons=true&theme=tokyonight" />
