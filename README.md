@@ -14,10 +14,10 @@
   <li><img src="https://img.shields.io/badge/Apache Poi (Exel-Java-Database)-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/></li>
   <li><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/></li>
   <li><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></li>
-  <li><img src="https://img.shields.io/badge/JSF(2.3) -FFFFFF?style=for-the-badge&logoColor=1B88AF" /></li>
-  <li><img src="https://img.shields.io/badge/PrimeFaces -FFFFFF?style=for-the-badge&logoColor=1B88AF?" /></li>
+  <li><img src="https://img.shields.io/badge/JSF(2.3) -FFFFFF?style=for-the-badge&logoColor=white" /></li>
+  <li><img src="https://img.shields.io/badge/PrimeFaces -FFFFFF?style=for-the-badge&logoColor==white /></li>
   <li><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></li>
-  <li><img src="https://img.shields.io/badge/AJAX -FFFFFF?style=for-the-badge&logoColor=1B88AF"/></li>
+  <li><img src="https://img.shields.io/badge/AJAX -FFFFFF?style=for-the-badge&logoColor==white/></li>
   <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white/></li>
   <li><img src="https://img.shields.io/badge/C#   -E34F26?style=for-the-badge&logo=csharp&logoColor=blue/></li>
   <li><img src="https://img.shields.io/badge/ASP.NET-FFFFFF?style=for-the-badge&logo=512BD4&logoColor=blue" /></li>
