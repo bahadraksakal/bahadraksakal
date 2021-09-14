@@ -2,7 +2,7 @@
 
 <h2 align="center">Web Developer</h2>
 
-## 📖  About Me
+## 📖  Genel
 ⚡ **Merhaba, ben [Bahadır Aksakal](https://www.linkedin.com/in/bahad%C4%B1r-aksakal-360b721b7/). Orta-Büyük işletmeler için evrak ve iş yükünü azaltan kağıt kullanımını mümkün**
 **olduğunca en aza indiren iş-süreç takip yazılımları (ERP’ler) üzerinde çalışıyorum . Şuan [@Bursa Tehnik Üniversitesi](https://btu.edu.tr/) Bilgisayar Mühendsiliği 2. sınıf öğrencisiyim.**
 
