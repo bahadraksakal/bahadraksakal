@@ -14,7 +14,7 @@
   <li><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>Apache Poi (Exel-Java-Database)</li>
   <li><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>Selenium (JAVA)</li>
   <li><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />MySQL</li>
-  <li><img src="./img/javaSF.png" width="72" height="24" />JSF(2.3)</li>
+  <li><img src="https://img.shields.io/badge/JSF -FFFFFF?style=for-the-badge&logo=mysql&logoColor=1B88AF" />JSF(2.3)</li>
   <li><img src="./img/primefaces_logo.png" width="72" height="24" />PrimeFaces Lib</li>
   <li><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>Jqery</li>
   <li><img src="./img/ajax_basic.png" width="72" height="24" />Ajax</li>
