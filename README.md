@@ -1,4 +1,4 @@
-<img src="./Bahadr.svg"></img>  
+<img src="./Bahadr.svg" widht="860px"></img>  
 
 <h2 align="center">Web Developer</h2>
 
