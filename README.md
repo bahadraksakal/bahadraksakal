@@ -21,7 +21,7 @@
 <img src="./csharp-original.svg" width="72" height="24"/>--C# SE  <br/><br/>
 <img align="left" src="./img/ASPMVC.png" width="72" height="24"/>--ASP.NET <br/><br/>
 <img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>--Python SE <br/><br/>
-<img align="left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logoColor=white"/>--C SE <br/><br/>
+<img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>--C SE <br/><br/>
 <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>--CSS3 <br/><br/>
 <img align="left" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>--Bootstrap5 <br/><br/>
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>--JavaScript <br/><br/>
