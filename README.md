@@ -26,7 +26,7 @@
 <img align="left" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>--Bootstrap5 <br/><br/>
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>--JavaScript <br/><br/>
 <img align="left" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>--Spring <br/><br/>
-<img align="left" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>--NetBeans IDE <br/><br/>
+<img align="left" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>--NetBeans IDE <br/>
 <img align="left" src="./img/hibernate.svg" width="104" height="48"/>--Hibernate <br/><br/>
 
 
