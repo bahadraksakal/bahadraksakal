@@ -22,6 +22,7 @@
 <img align="left" src="./img/ASPMVC.png" width="72" height="24"/>--ASP.NET <br/><br/>
 <img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>--Python SE <br/><br/>
 <img align="left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logoColor=white"/>--C SE <br/><br/>
+<img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white/>--C SE <br/><br/>
 
 
  ## ⭐ Projelerim
