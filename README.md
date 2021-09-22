@@ -62,7 +62,7 @@
             <table class="table table-striped table-bordered table-hover">
                 <tbody>
                     <tr>
-                        <td><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bahadraksakal&show_icons=true&cache_seconds=1800&locale=en&layout=compact" alt="bahadraksakal" /></td>
+                        <td colspan="2"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bahadraksakal&show_icons=true&cache_seconds=1800&locale=en&layout=compact" alt="bahadraksakal" /></td>
                     </tr>
                     <tr>
                         <td><img width="48%" src="https://github-readme-stats.vercel.app/api?username=bahadraksakal&show_icons=true&theme=tokyonight" /></td>
