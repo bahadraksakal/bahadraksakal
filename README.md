@@ -17,7 +17,7 @@
                         <td><img align="left" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/></td>
                         <td><img align="left" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/></td>
                         <td><img align="left" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></td>
-                        <td><img align="left" src="./img/dotnet.svg" width="104" height="34"/></td>
+                        <td><img align="left" src="./img/dotnet3.svg" width="104" height="34"/></td>
                         <td><img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/></td>
                         <td><img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></td>
                     </tr>
