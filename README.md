@@ -59,9 +59,17 @@
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bahad%C4%B1r-aksakal-360b721b7/)
 
+<div class="container">
+            <table class="table table-striped table-bordered table-hover">
+                <tbody>
+                    <tr>
+                        <td><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bahadraksakal&show_icons=true&cache_seconds=1800&locale=en&layout=compact" alt="bahadraksakal" /></td>
+                    </tr>
+                    <tr>
+                        <td><img width="48%" src="https://github-readme-stats.vercel.app/api?username=bahadraksakal&show_icons=true&theme=tokyonight" /></td>
+                        <td><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bahadraksakal&theme=tokyonight" /></td>                        
+                    </tr>                   
+                </tbody>
+            </table>
+</div>
 
-<p align="center">	
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bahadraksakal&show_icons=true&cache_seconds=1800&locale=en&layout=compact"                   alt="bahadraksakal" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bahadraksakal&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bahadraksakal&theme=tokyonight" />
-</p>
