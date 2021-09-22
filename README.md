@@ -11,7 +11,6 @@
 ## :computer: Kullandığım Teknoloji Ve Diller
 <div class="container">
             <table class="table table-striped table-bordered table-hover">
-                <tbody>
                     <tr>
                         <td><img align="left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></td>
                         <td><img align="left" src="https://img.shields.io/badge/Java EE-ff6600?style=for-the-badge&logo=java&logoColor=white"/></td>
@@ -19,7 +18,7 @@
                         <td><img align="left" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/></td>
                         <td><img align="left" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></td>
                         <td><img align="left" src="./img/ASPMVC.png" width="104" height="38"/></td>
-                        <td><img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>r</td>
+                        <td><img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/></td>
                         <td><img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></td>
                     </tr>
                     <tr class="table-success">
@@ -41,8 +40,7 @@
                         <td></td>
                         <td></td>
                         <td></td>
-                    </tr>
-                </tbody>
+                    </tr>               
             </table>
 </div>
            
