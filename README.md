@@ -51,7 +51,6 @@
 * [ApachePOI Lib ile Exel Çalışmaları](https://github.com/bahadraksakal/ApachePOI_Excell_Selenium_MySQL_Ornek)  
 * [Dil Tanıma](https://github.com/bahadraksakal/Guz_Donemi_Projem_1.Sinif-) 
 * [My computational biology project.This project maps gene sequences](https://github.com/bahadraksakal/Java_HBG_Project) 
-* 
 
 
 ## 📬 Bana Ulaşın
