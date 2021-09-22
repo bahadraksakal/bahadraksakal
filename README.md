@@ -27,7 +27,7 @@
                         <td><img align="left" src="./img/javaSF.png" width="104" height="30" /></td>
                         <td><img align="left" src="./img/primefaces_logo.png" width="104" height="34" /></td>
                         <td><img align="left" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></td>
-                        <td><img align="left" src="./img/ajax_basic.png" width="104" height="34" /></td>
+                        <td><img align="left" src="./img/ajax.svg" width="104" height="34" /></td>
                         <td><img align="left" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></td>
                         <td><img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></td>
                     </tr>
