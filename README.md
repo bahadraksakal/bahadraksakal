@@ -24,7 +24,7 @@
                     <tr>
                         <td><img src="./csharp-original.svg" width="104" height="34"/></td>                        
                         <td><img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></td>
-                        <td><img align="left" src="./img/javaSF.png" width="104" height="34" /></td>
+                        <td><img align="left" src="./img/javaSF.png" width="104" height="30" /></td>
                         <td><img align="left" src="./img/primefaces_logo.png" width="104" height="34" /></td>
                         <td><img align="left" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></td>
                         <td><img align="left" src="./img/ajax_basic.png" width="104" height="34" /></td>
@@ -47,7 +47,7 @@
 
  ## ⭐ Projelerim
 * [Bankacılık Uygulaması](https://github.com/bahadraksakal/Java_Bahar_Donemi_Proje) 
-* [Üyelik Sistemi Web Projesi](https://github.com/bahadraksakal/Uyelik_Sistemi_Projesi_JSF_2.3)  *
+* [Üyelik Sistemi Web Projesi](https://github.com/bahadraksakal/Uyelik_Sistemi_Projesi_JSF_2.3)  
 * [ApachePOI Lib ile Exel Çalışmaları](https://github.com/bahadraksakal/ApachePOI_Excell_Selenium_MySQL_Ornek)  
 * [Dil Tanıma](https://github.com/bahadraksakal/Guz_Donemi_Projem_1.Sinif-) 
 * [My computational biology project.This project maps gene sequences](https://github.com/bahadraksakal/Java_HBG_Project) 
