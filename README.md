@@ -8,6 +8,7 @@
 
 
 ## :computer: Kullandığım Teknoloji Ve Diller
+<table>
 <img align="left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>--Java SE <br/><br/>
 <img align="left" src="https://img.shields.io/badge/Java EE-ff6600?style=for-the-badge&logo=java&logoColor=white"/>--Java EE <br/><br/>
 <img align="left" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>--Apache Poi (Exel-Java-Database)<br/><br/>
@@ -28,7 +29,7 @@
 <img align="left" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>--Spring <br/><br/>
 <img align="left" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>--NetBeans IDE <br/><br/>
 <img align="left" src="./img/hibernate.svg" width="104" height="48"/>--Hibernate <br/><br/>
-
+</table>
 
  ## ⭐ Projelerim
 * [Bankacılık Uygulaması](https://github.com/bahadraksakal/Java_Bahar_Donemi_Proje) 
