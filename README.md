@@ -30,6 +30,75 @@
 <img align="left" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>--NetBeans IDE <br/><br/>
 <img align="left" src="./img/hibernate.svg" width="104" height="48"/>--Hibernate <br/><br/>
 </table>
+<div class="container">
+            <table class="table table-striped table-bordered table-hover">
+                <thead class="table-info">
+                    <tr>
+                        <td style="background-color: #0d6efd">ID</td>
+                        <td>Ürün Adı</td>
+                        <td>Kategori</td>
+                        <td>Fiyat</td>
+                        <td>Stok Adedi</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>Casper Laptop</td>
+                        <td>Bilgisayar</td>
+                        <td>3000</td>
+                        <td>150</td>
+                    </tr>
+                    <tr class="table-success">
+                        <td>2</td>
+                        <td>Lenova Laptop</td>
+                        <td>Bilgisayar</td>
+                        <td>3500</td>
+                        <td>200</td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td>MSİ Laptop</td>
+                        <td>Bilgisayar</td>
+                        <td>16000</td>
+                        <td>25</td>
+                    </tr>
+                </tbody>
+            </table>
+            <table class="table table-dark table-striped table-hover">
+                <thead>
+                    <tr>
+                        <td>ID</td>
+                        <td>Ürün Adı</td>
+                        <td>Kategori</td>
+                        <td>Fiyat</td>
+                        <td>Stok Adedi</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>Casper Laptop</td>
+                        <td>Bilgisayar</td>
+                        <td>3000</td>
+                        <td>150</td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>Lenova Laptop</td>
+                        <td>Bilgisayar</td>
+                        <td>3500</td>
+                        <td>200</td>
+                    </tr>
+                    <tr class="table-danger">
+                        <td>3</td>
+                        <td>MSİ Laptop</td>
+                        <td>Bilgisayar</td>
+                        <td>16000</td>
+                        <td>25</td>
+                    </tr>
+                </tbody>
+            </table>
 
  ## ⭐ Projelerim
 * [Bankacılık Uygulaması](https://github.com/bahadraksakal/Java_Bahar_Donemi_Proje) 
