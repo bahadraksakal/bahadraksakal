@@ -53,7 +53,7 @@
 * [Dil Tanıma](https://github.com/bahadraksakal/Guz_Donemi_Projem_1.Sinif-) 
 * [My computational biology project.This project maps gene sequences](https://github.com/bahadraksakal/Java_HBG_Project) 
 * 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bahadraksakal&show_icons=true&cache_seconds=1800&locale=en&layout=compact" alt="bahadraksakal" />
+
 
 ## 📬 Bana Ulaşın
 
@@ -61,6 +61,7 @@
 
 
 <p align="center">	
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bahadraksakal&show_icons=true&cache_seconds=1800&locale=en&layout=compact"                   alt="bahadraksakal" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bahadraksakal&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bahadraksakal&theme=tokyonight" />
 </p>
