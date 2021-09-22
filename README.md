@@ -9,7 +9,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=bahadraksakal&label=Profile%20views&color=ff0f32&style=flat" alt="bahadraksakal" /></p>
 
 ## :computer: Kullandığım Teknoloji Ve Diller
-<div class="container">
+<div class="container" style="align-items: center">
             <table class="table table-striped table-bordered table-hover" sty>
                     <tr>
                         <td><img align="left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></td>
@@ -57,7 +57,7 @@
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bahad%C4%B1r-aksakal-360b721b7/)
 
-<div class="container">
+<div class="container" style="align-items: center">
             <table class="table table-striped table-bordered table-hover">
                 <tbody>
                     <tr>
