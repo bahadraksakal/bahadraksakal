@@ -10,7 +10,7 @@
 
 ## :computer: Kullandığım Teknoloji Ve Diller
 <div class="container" style="align-items: center">
-            <table class="table table-striped table-bordered table-hover" sty>
+            <table class="table table-striped table-bordered table-hover" style="text-align: center;">
                     <tr>
                         <td><img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></td>
                         <td><img align="center" src="https://img.shields.io/badge/Java EE-ff6600?style=for-the-badge&logo=java&logoColor=white"/></td>
