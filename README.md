@@ -11,7 +11,7 @@
 ## :computer: Kullandığım Teknoloji Ve Diller
 <div>
             <table>
-                    <tr>
+                    <tr height=width="114" height="38">
                         <td align="center" ><img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></td>
                         <td align="center" ><img align="center" src="https://img.shields.io/badge/Java EE-ff6600?style=for-the-badge&logo=java&logoColor=white"/></td>
                 <td align="center" ><img align="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/></td>
