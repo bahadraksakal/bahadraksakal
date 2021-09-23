@@ -12,30 +12,30 @@
 <div class="container" style="align-items: center">
             <table class="table table-striped table-bordered table-hover" sty>
                     <tr>
-                        <td><img align="left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></td>
-                        <td><img align="left" src="https://img.shields.io/badge/Java EE-ff6600?style=for-the-badge&logo=java&logoColor=white"/></td>
-                        <td><img align="left" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/></td>
-                        <td><img align="left" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/></td>
-                        <td><img align="left" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></td>
-                        <td><img align="left" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></td>
-                        <td><img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/></td>
-                        <td><img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></td>
+                        <td><img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></td>
+                        <td><img align="center" src="https://img.shields.io/badge/Java EE-ff6600?style=for-the-badge&logo=java&logoColor=white"/></td>
+                        <td><img align="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/></td>
+                        <td><img align="center" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/></td>
+                        <td><img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></td>
+                        <td><img align="center" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></td>
+                        <td><img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/></td>
+                        <td><img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></td>
                     </tr>
                     <tr>
-                        <td><img src="./csharp-original.svg" width="104" height="34"/></td>                        
-                        <td><img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></td>
-                        <td><img align="left" src="./img/javaSF.png" width="104" height="30" /></td>
-                <td><img align="left" src="https://www.primefaces.org/showcase/javax.faces.resource/images/primefaces-logo.svg.xhtml?ln=showcase" width="114" height="34" /></td>
-                        <td><img align="left" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></td>
-                        <td><img align="left" src="./img/ajax.svg" width="104" height="28" /></td>
-                        <td><img align="left" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></td>
-                        <td><img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></td>
+                        <td><img align="center" src="./csharp-original.svg" width="104" height="34"/></td>                        
+                        <td><img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></td>
+                        <td><img align="center" src="./img/javaSF.png" width="104" height="30" /></td>
+             <td><img align="center" src="https://www.primefaces.org/showcase/javax.faces.resource/images/primefaces-logo.svg.xhtml?ln=showcase" width="114" height="34" /></td>
+                        <td><img align="center" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></td>
+                        <td><img align="center" src="./img/ajax.svg" width="104" height="28" /></td>
+                        <td><img align="center" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></td>
+                        <td><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></td>
                     </tr>
                     <tr>
-                        <td><img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></td>
-                        <td><img align="left" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/></td>
-                        <td><img align="left" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/></td>
-                        <td><img align="left" src="./img/hibernate.svg" width="104" height="48"/></td>
+                        <td><img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></td>
+                        <td><img align="center" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/></td>
+                        <td><img align="center" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/></td>
+                        <td><img align="center" src="./img/hibernate.svg" width="104" height="48"/></td>
                         <td></td>
                         <td></td>
                         <td></td>
