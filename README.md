@@ -7,17 +7,10 @@
 ⚡ **Merhaba, ben [Bahadır Aksakal](https://www.linkedin.com/in/bahad%C4%B1r-aksakal-360b721b7/). Orta-Büyük işletmeler için evrak ve iş yükünü azaltan kağıt kullanımını mümkün**
 **olduğunca en aza indiren iş-süreç takip yazılımları (ERP’ler) üzerinde çalışıyorum . Şuan [@Bursa Tehnik Üniversitesi](https://btu.edu.tr/) Bilgisayar Mühendisliği 2. sınıf öğrencisiyim.**
 <p align="left"><img src="https://komarev.com/ghpvc/?username=bahadraksakal&label=Profile%20views&color=ff0f32&style=flat" alt="bahadraksakal" /><img align="right" src="./img/apache.svg" width="134" height="48"/></p>
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-            }
-</style>
        
 ## :computer: Kullandığım Teknoloji Ve Diller
-<div class="container" style="align-items: center">
-            <table class="table table-striped table-bordered table-hover" style="text-align: center;">
+<div>
+            <table>
                     <tr>
                         <td><img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></td>
                         <td><img align="center" src="https://img.shields.io/badge/Java EE-ff6600?style=for-the-badge&logo=java&logoColor=white"/></td>
@@ -26,7 +19,7 @@ img {
                         <td><img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></td>
                         <td><img align="center" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></td>
                         <td><img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/></td>
-                        <td><img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></td>
+                        <td align="center" ><img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></td>
                     </tr>
                     <tr>
                         <td><img align="center" src="./csharp-original.svg" width="104" height="34"/></td>                        
