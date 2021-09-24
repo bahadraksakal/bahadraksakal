@@ -36,7 +36,7 @@
                         <td align="center" ><img align="center" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/></td>
             <td align="center" ><img align="center" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/></td>
                         <td align="center" ><img align="center" src="./img/hibernate.svg" width="104" height="48"/></td>
-                        <td align="center"><img align="center" src="	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></td>
+                        <td align="center"><img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></td>
                         <td align="center"></td>
                         <td align="center"></td>
                         <td align="center"></td>
