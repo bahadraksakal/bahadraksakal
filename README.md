@@ -38,7 +38,7 @@
                         <td align="center" ><img align="center" src="./img/hibernate.svg" width="104" height="48"/></td>
                         <td align="center"><img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></td>
                         <td align="center"><img align="center" src="./img/ApachePOI.svg" width="114" height="34"/></td>
-                        <td align="center"></td>
+                        <td align="center"><img align="center" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/></td>
                         <td align="center"></td>
                     </tr>               
             </table>
