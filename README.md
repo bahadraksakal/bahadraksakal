@@ -40,7 +40,17 @@
                         <td align="center"><img align="center" src="./img/ApachePOI.svg" width="114" height="34"/></td>
                         <td align="center"><img align="center" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/></td>
                         <td align="center"><img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></td>
-                    </tr>               
+                    </tr>  
+                   <tr>
+                        <td align="center" ><img align="center" src=""/></td>
+                        <td align="center" ><img align="center" src=""/></td>
+                        <td align="center" ><img align="center" src=""/></td>
+                        <td align="center" ><img align="center" src=""/></td>
+                        <td align="center"><img align="center" src=""/></td>
+                        <td align="center"><img align="center" src=""/></td>
+                        <td align="center"><img align="center" src=""/></td>
+                        <td align="center"><img align="center" src=""/></td>
+                    </tr> 
             </table>
 </div>
            
