@@ -42,14 +42,14 @@
                         <td align="center"><img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></td>
                     </tr>  
                    <tr>
-                        <td align="center" ><img align="center" src=""/></td>
-                        <td align="center" ><img align="center" src=""/></td>
-                        <td align="center" ><img align="center" src=""/></td>
+                        <td align="center" ><img align="center" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=Maven&logoColor=white"/></td>
+                        <td align="center" ><img align="center" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/></td>
+                  <td align="center" ><img align="center" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=VSstudio&logoColor=white)"/></td>
                         <td align="center" ><img align="center" src=""/></td>
                         <td align="center"><img align="center" src=""/></td>
                         <td align="center"><img align="center" src=""/></td>
-                        <td align="center"><img align="center" src=""/></td>
-                        <td align="center"><img align="center" src=""/></td>
+                        <td align="center"><img align="center" /></td>
+                        <td align="center"><img align="center" /></td>
                     </tr> 
             </table>
 </div>
