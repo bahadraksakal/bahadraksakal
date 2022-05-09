@@ -58,7 +58,7 @@
  ## ⭐ Projelerim
 * [Bankacılık Uygulaması](https://github.com/bahadraksakal/Java_Bahar_Donemi_Proje) 
 * [Üyelik Sistemi Web Projesi](https://github.com/bahadraksakal/Uyelik_Sistemi_Projesi_JSF_2.3)  
-* [ApachePOI Lib ile Exel Çalışmaları](https://github.com/bahadraksakal/ApachePOI_Excell_Selenium_MySQL_Ornek)  
+* [JS Game Proje](https://github.com/bahadraksakal/WepProgramlamaProje-JSGAME-MUTANT-KARINCA)  
 * [Dil Tanıma](https://github.com/bahadraksakal/Guz_Donemi_Projem_1.Sinif-) 
 * [My computational biology project.This project maps gene sequences](https://github.com/bahadraksakal/Java_HBG_Project) 
 
