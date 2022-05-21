@@ -57,6 +57,7 @@
 
  ## ⭐ Projelerim
 * [Bankacılık Uygulaması](https://github.com/bahadraksakal/Java_Bahar_Donemi_Proje) 
+* [Hamming Code Bilgisayar Mimarisi Projesi](https://github.com/bahadraksakal/Hamming-Code-Genarator-With-Gui-2.-Sinif-Bilgisayar-Mimarisi-Dersi-Proje-Odevi)
 * [Üyelik Sistemi Web Projesi](https://github.com/bahadraksakal/Uyelik_Sistemi_Projesi_JSF_2.3)  
 * [JS Game Proje](https://github.com/bahadraksakal/WepProgramlamaProje-JSGAME-MUTANT-KARINCA)  
 * [Dil Tanıma](https://github.com/bahadraksakal/Guz_Donemi_Projem_1.Sinif-) 
