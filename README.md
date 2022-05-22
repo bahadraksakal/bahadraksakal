@@ -55,7 +55,7 @@
 </div> 
 
 
-| **⭐ Projelerim**  |   <p align="left"><img align="right" src="bahox_logo.svg" width="250" height="200"/></p> 
+<p align="left"><img align="right" src="bahox_logo.svg" width="250" height="200"/></p> | **⭐ Projelerim**  |   
 | --- |
 | * [Bahis Oyunu Tuttur Kazan BahoxBet](https://github.com/bahadraksakal/Bahis-Oyunu-Tuttur-Kazan-BahoxBet) |
 | * [Bankacılık Uygulaması](https://github.com/bahadraksakal/Java_Bahar_Donemi_Proje) |
