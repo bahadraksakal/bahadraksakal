@@ -55,7 +55,7 @@
 </div> 
 
 
-| ##⭐ Projelerim |
+## ⭐ Projelerim
 | --- |
 | * [Bahis Oyunu Tuttur Kazan BahoxBet](https://github.com/bahadraksakal/Bahis-Oyunu-Tuttur-Kazan-BahoxBet) |  
 |  * [Bankacılık Uygulaması](https://github.com/bahadraksakal/Java_Bahar_Donemi_Proje) |
