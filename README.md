@@ -55,9 +55,9 @@
 </div>
            
 
- ## ⭐ Projelerim
- <p align="left"><img src="https://komarev.com/ghpvc/?username=bahadraksakal&label=Profile%20views&color=ff0f32&style=flat" alt="bahadraksakal" /><img align="right" src="./img/apache.svg" width="134" height="48"/></p>
+ ## ⭐ Projelerim 
 * [Bahis Oyunu Tuttur Kazan BahoxBet](https://github.com/bahadraksakal/Bahis-Oyunu-Tuttur-Kazan-BahoxBet)
+* <p align="left"><img src="https://komarev.com/ghpvc/?username=bahadraksakal&label=Profile%20views&color=ff0f32&style=flat" alt="bahadraksakal" /><img align="right" src="./img/apache.svg" width="134" height="48"/></p>
 * [Bankacılık Uygulaması](https://github.com/bahadraksakal/Java_Bahar_Donemi_Proje) 
 * [Hamming Code Bilgisayar Mimarisi Projesi](https://github.com/bahadraksakal/Hamming-Code-Genarator-With-Gui-2.-Sinif-Bilgisayar-Mimarisi-Dersi-Proje-Odevi)
 * [Üyelik Sistemi Web Projesi](https://github.com/bahadraksakal/Uyelik_Sistemi_Projesi_JSF_2.3)  
