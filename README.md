@@ -56,7 +56,7 @@
 
 
 | ## ⭐ Projelerim |
-| --- | --- |
+| --- |
 | * [Bahis Oyunu Tuttur Kazan BahoxBet](https://github.com/bahadraksakal/Bahis-Oyunu-Tuttur-Kazan-BahoxBet) |  
 |  * [Bankacılık Uygulaması](https://github.com/bahadraksakal/Java_Bahar_Donemi_Proje) |
 | * [Hamming Code Bilgisayar Mimarisi Projesi](https://github.com/bahadraksakal/Hamming-Code-Genarator-With-Gui-2.-Sinif-Bilgisayar-Mimarisi-Dersi-Proje-Odevi) |
