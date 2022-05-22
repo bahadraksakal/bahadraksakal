@@ -55,7 +55,7 @@
 </div> 
 
 
-<p align="left"><img align="right" src="bahox_logo.svg" width="250" height="200"/><br><br><br></p> 
+<p align="left"><img align="center" src="bahox_logo.svg" width="250" height="200"/></p> 
 
 | **⭐ Projelerim**  |   
 | --- |
