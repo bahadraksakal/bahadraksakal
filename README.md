@@ -54,7 +54,7 @@
             </table>
 </div>
            
- <p align="left"><img align="right" src="bahox_logo.svg" width="250" height="200" style="padding-top: 125px;"/></p>
+ <p align="left"><br><br><br><br><br><img align="right" src="bahox_logo.svg" width="250" height="200""/></p>
  
  ## ⭐ Projelerim 
 * [Bahis Oyunu Tuttur Kazan BahoxBet](https://github.com/bahadraksakal/Bahis-Oyunu-Tuttur-Kazan-BahoxBet)  
