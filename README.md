@@ -66,7 +66,7 @@
 | * [Bankacılık Uygulaması](https://github.com/bahadraksakal/Java_Bahar_Donemi_Proje) |
 | * [Dil Tanımla ve Doğal Dil İşleme Projesi](https://github.com/bahadraksakal/Guz_Donemi_Projem_1.Sinif-) |
 | * [Üyelik Sistemi Web Projesi](https://github.com/bahadraksakal/Uyelik_Sistemi_Projesi_JSF_2.3) |
-| * [Find Similarity Of Gene Sequences - Align With Chi-Square - Computational Biology Project](https://github.com/bahadraksakal/Java_HBG_Project) |
+| * [Similarity Of Gene Sequences - Align With Chi-Square - Computational Biology Project](https://github.com/bahadraksakal/Java_HBG_Project) |
  
 
 
