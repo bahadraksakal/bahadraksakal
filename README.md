@@ -54,9 +54,6 @@
             </table>
 </div> 
 
-
-//<p align="right"><img align="right" src="bahox_logo.svg" width="250" height="200"/></p> 
-
 | **⭐ Projelerim**  |   
 | --- |
 | * [Dentist ERP - Dişçiler İçin İş Takip Web Api](https://github.com/bahadraksakal/Dentist-ERP-FULL) |
