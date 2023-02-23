@@ -47,7 +47,7 @@
                  <td align="center" ><img align="center" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></td>
                         <td align="center" ><img align="center" src="./img/php-logo.svg" width="104" height="34"/></td>
                         <td align="center"><img align="center" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" /></td>
-                        <td align="center"><img align="center" /></td>
+                        <td align="center"><img align="center" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></td>
                         <td align="center"><img align="center" /></td>
                         <td align="center"><img align="center" /></td>
                     </tr> 
