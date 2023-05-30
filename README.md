@@ -49,13 +49,14 @@
                         <td align="center"><img align="center" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" /></td>
                         <td align="center"><img align="center" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></td>
                         <td align="center"><img align="center" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/></td>
-                        <td align="center"><img align="center" /></td>
+                        <td align="center"><img align="center" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/></td>
                     </tr> 
             </table>
 </div> 
 
 | **⭐ Projelerim**  | **:spiral_calendar:  Tarihler** |
 | --- | --- |
+| * [Bulus-Tanis-App](https://github.com/bahadraksakal/Bulus-Tanis-App) | 3. Sınıf Bahar Dönemi |
 | * [Mobile-Authentication-App](https://github.com/bahadraksakal/Mobile-Authentication-App#tr) | 3. Sınıf Güz Dönemi |
 | * [Blow Up Box-2 Game-Unity](https://github.com/bahadraksakal/OyunProgramlaFinalProje-BlowUpBox2) | 3. Sınıf Güz Dönemi |
 | * [Hava Yolu Kayıt Oluşturma Sistemi](https://github.com/bahadraksakal/Hava-Yolu-Kayit-Sistemi) | 3. Sınıf Güz Dönemi |
