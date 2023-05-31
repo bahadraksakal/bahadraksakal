@@ -39,7 +39,7 @@
                         <td align="center"><img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></td>
                         <td align="center"><img align="center" src="./img/ApachePOI.svg" width="114" height="34"/></td>
                         <td align="center"><img align="center" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/></td>
-                        <td align="center"><img align="center" width="104" height="48" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></td>
+                        <td align="center"><img align="center" width="114" height="34" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></td>
                     </tr>  
                    <tr>
                   <td align="center" ><img align="center" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/></td>
