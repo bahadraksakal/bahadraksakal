@@ -62,7 +62,7 @@
 | * [Hava Yolu Kayıt Oluşturma Sistemi](https://github.com/bahadraksakal/Hava-Yolu-Kayit-Sistemi) | 3. Sınıf Güz Dönemi |
 | * [.NET-Programlama Dersi Vize Final Sorulari Cozumlerim](https://github.com/bahadraksakal/.NET-Programlama-Dersi-Vize-Final-Sorulari-Cozumlerim) | 3. Sınıf Güz Dönemi |
 | * [BTÜ Bilgi İşlem Dairesinde Yaptığım Staj Projesi](https://github.com/bahadraksakal/Universite-Is-Talep-Takip) | 2. Sınıf Yaz Dönemi (Staj) |
-| * [Dentist ERP - Dişçiler İçin İş Takip Web Api](https://github.com/bahadraksakal/Dentist-ERP-FULL) | 2. Sınıf Bahar Dönemi |
+| * [Dentist ERP - Dişçiler İçin İş Takip](https://github.com/bahadraksakal/Dentist-ERP-FULL) | 2. Sınıf Bahar Dönemi |
 | * [Bahis Oyunu Tuttur Kazan BahoxBet](https://github.com/bahadraksakal/Bahis-Oyunu-Tuttur-Kazan-BahoxBet) | 2. Sınıf Bahar Dönemi |
 | * [Mutant Karınca Game-JS](https://github.com/bahadraksakal/WepProgramlamaProje-JSGAME-MUTANT-KARINCA) | 2. Sınıf Bahar Dönemi |
 | * [Hamming Code Bilgisayar Mimarisi Projesi](https://github.com/bahadraksakal/Hamming-Code-Genarator-With-Gui-2.-Sinif-Bilgisayar-Mimarisi-Dersi-Proje-Odevi) | 2. Sınıf Bahar Dönemi |
