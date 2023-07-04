@@ -19,7 +19,7 @@
  
 
 ## ⭐ Projelerim
-| ** :code: Repolar**  | **:spiral_calendar:  Tarihler** |
+| ** :page_facing_up: Repolar**  | **:spiral_calendar:  Tarihler** |
 | --- | --- |
 | * [Bulus-Tanis-App](https://github.com/bahadraksakal/Bulus-Tanis-App) | 3. Sınıf Bahar Dönemi |
 | * [Mobile-Authentication-App](https://github.com/bahadraksakal/Mobile-Authentication-App#tr) | 3. Sınıf Güz Dönemi |
