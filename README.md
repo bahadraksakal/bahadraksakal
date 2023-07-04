@@ -3,9 +3,9 @@
 
 <h2 align="center">Software Developer</h2>
 
-## 📖  Genel
+## 📖  About Me
 ⚡ **Hi, I'm [Bahadır Aksakal](https://www.linkedin.com/in/bahad%C4%B1r-aksakal-360b721b7/).**
-**Computer Engineering Student At [@Bursa Technical University](https://btu.edu.tr/)** 
+**I'm studying computer engineering at [@Bursa Technical University](https://btu.edu.tr/)** 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=bahadraksakal&label=Profile%20views&color=ff0f32&style=flat" alt="bahadraksakal" /><img align="right" src="./img/apache.svg" width="134" height="48"/></p>
 
 
