@@ -4,12 +4,12 @@
 <h2 align="center">Software Developer</h2>
 
 ## 📖  Genel
-⚡ Merhaba, ben [Bahadır Aksakal](https://www.linkedin.com/in/bahad%C4%B1r-aksakal-360b721b7/).
-Şuan [@Bursa Tehnik Üniversitesi](https://btu.edu.tr/) Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.
+⚡ **Hi, I'm [Bahadır Aksakal](https://www.linkedin.com/in/bahad%C4%B1r-aksakal-360b721b7/).**
+**Computer Engineering Student At [@Bursa Technical University](https://btu.edu.tr/)** 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=bahadraksakal&label=Profile%20views&color=ff0f32&style=flat" alt="bahadraksakal" /><img align="right" src="./img/apache.svg" width="134" height="48"/></p>
 
 
-## :1st_place_medal: Yetenekler
+## :1st_place_medal: Skills
 <ul>
   <li><strong>BackEnd</strong>: NodeJS (JavaScript), .NET</li>
   <li><strong>FrontEnd</strong>: Vue.js </li>
@@ -18,7 +18,7 @@
 </ul>      
  
 
-## ⭐ Projelerim
+## ⭐ My Projects
 | **:page_facing_up: Repolar**  | **:spiral_calendar:  Tarihler** |
 | --- | --- |
 | * [Bulus-Tanis-App](https://github.com/bahadraksakal/Bulus-Tanis-App) | 3. Sınıf Bahar Dönemi |
@@ -36,7 +36,7 @@
 | * [Dil Tanımla ve Doğal Dil İşleme Projesi](https://github.com/bahadraksakal/Guz_Donemi_Projem_1.Sinif-) | 1. Sınıf Güz Dönemi |
 
 
-## 📬 Bana Ulaşın
+## 📬 Connect With Me:
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bahad%C4%B1r-aksakal-360b721b7/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bahadraksakal201@gmail.com)](mailto:bahadraksakal201@gmail.com)
 [![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bahadraksakal)       [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bahadr_aksakal)  
@@ -55,7 +55,7 @@
 </div>
 
 
-## :computer: Kullandığım Tüm Teknoloji Ve Diller
+## :computer: Languages and Tools:
 <div>
             <table>
                     <tr>
