@@ -7,7 +7,7 @@
 ⚡ **Merhaba, ben [Bahadır Aksakal](https://www.linkedin.com/in/bahad%C4%B1r-aksakal-360b721b7/). Orta-Büyük işletmeler için evrak ve iş yükünü azaltan kağıt kullanımını mümkün**
 **olduğunca en aza indiren iş-süreç takip yazılımları (ERP’ler) üzerinde çalışıyorum . Şuan [@Bursa Tehnik Üniversitesi](https://btu.edu.tr/) Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.**
 <p align="left"><img src="https://komarev.com/ghpvc/?username=bahadraksakal&label=Profile%20views&color=ff0f32&style=flat" alt="bahadraksakal" /><img align="right" src="./img/apache.svg" width="134" height="48"/></p>
-## 🥇 Yetenekler
+## :1st_place_medal: Yetenekler
 <ul>
   <li><strong>BackEnd</strong>: NodeJS (JavaScript), .NET</li>
   <li><strong>FrontEnd</strong>: Vue.js </li>
@@ -50,6 +50,7 @@
                 </tbody>
             </table>
 </div>
+
 
 ## :computer: Kullandığım Tüm Teknoloji Ve Diller
 <div>
