@@ -6,6 +6,8 @@
 ## 📖  About Me
 ⚡ **Hi, I'm [Bahadır Aksakal](https://www.linkedin.com/in/bahad%C4%B1r-aksakal-360b721b7/).**
 **I'm studying computer engineering at [@Bursa Technical University](https://btu.edu.tr/)** 
+**[CV İçin Tıklayın]**(https://github.com/bahadraksakal/bahadraksakal/blob/main/BAHADIRAKSAKAL-CV.pdf)
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=bahadraksakal&label=Profile%20views&color=ff0f32&style=flat" alt="bahadraksakal" /><img align="right" src="./img/apache.svg" width="134" height="48"/></p>
 
 
