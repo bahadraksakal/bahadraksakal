@@ -24,8 +24,8 @@
 ## ⭐ My Projects
 | **:page_facing_up: Repositorys**  | **:spiral_calendar:  Dates** |
 | --- | --- |
-| * [Kubernates-MultiNode-Kurulumu-Ubuntu-Tr-Kaynak]([https://github.com/bahadraksakal/kartvizit-app](https://github.com/bahadraksakal/Kubernates-Kurulumu-Ubuntu-Tr-Kaynak)) | 3. Sınıf Yaz Dönemi |
-| * [Kartvizit-App](https://github.com/bahadraksakal/kartvizit-app) | 3. Sınıf Yaz Dönemi |
+| * [Kubernates-MultiNode-Kurulumu-Ubuntu-Tr-Kaynak](https://github.com/bahadraksakal/Kubernates-Kurulumu-Ubuntu-Tr-Kaynak) | 3. Sınıf Yaz Dönemi (Staj) |
+| * [Kartvizit-App](https://github.com/bahadraksakal/kartvizit-app) | 3. Sınıf Yaz Dönemi (Staj) |
 | * [Bulus-Tanis-App](https://github.com/bahadraksakal/Bulus-Tanis-App) | 3. Sınıf Bahar Dönemi |
 | * [Mobile-Authentication-App](https://github.com/bahadraksakal/Mobile-Authentication-App#tr) | 3. Sınıf Güz Dönemi |
 | * [Blow Up Box-2 Game-Unity](https://github.com/bahadraksakal/OyunProgramlaFinalProje-BlowUpBox2) | 3. Sınıf Güz Dönemi |
