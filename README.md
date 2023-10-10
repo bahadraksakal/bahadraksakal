@@ -22,7 +22,7 @@
  
 
 ## ⭐ My Projects
-| **:page_facing_up: Repositorys**  | **:spiral_calendar:  Dates** |
+| **:page_facing_up: Repositories**  | **:spiral_calendar:  Dates** |
 | --- | --- |
 | * [Kubernates-MultiNode-Kurulumu-Ubuntu-Tr-Kaynak](https://github.com/bahadraksakal/Kubernates-Kurulumu-Ubuntu-Tr-Kaynak) | 3. Sınıf Yaz Dönemi (Staj) |
 | * [Kartvizit-App](https://github.com/bahadraksakal/kartvizit-app) | 3. Sınıf Yaz Dönemi (Staj) |
