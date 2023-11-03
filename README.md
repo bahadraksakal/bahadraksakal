@@ -14,9 +14,9 @@
 
 ## :1st_place_medal: Skills
 <ul>
-  <li><strong>BackEnd</strong>: NodeJS (JavaScript), .NET, Java</li>
+  <li><strong>BackEnd</strong>: NodeJS (Express.js), .NET, Java</li>
   <li><strong>FrontEnd</strong>: Angular, Vue </li>
-  <li><strong>Database</strong>: MongoDB, MySQL</li>
+  <li><strong>Database</strong>: MongoDB, MSSQL, MySQL</li>
   <li><strong>DevOps</strong>: Docker-Kubernetes</li>
 </ul>      
  
