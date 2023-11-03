@@ -24,6 +24,7 @@
 ## ⭐ My Projects
 | **:page_facing_up: Repositories**  | **:spiral_calendar:  Dates** |
 | --- | --- |
+| * [Stock-Market-API-AspNetCore](https://github.com/bahadraksakal/MSE_StocksMarketAPI) | 4. Sınıf Güz Dönemi (Staj) |
 | * [Kubernates-MultiNode-Kurulumu-Ubuntu-Tr-Kaynak](https://github.com/bahadraksakal/Kubernates-Kurulumu-Ubuntu-Tr-Kaynak) | 3. Sınıf Yaz Dönemi (Staj) |
 | * [Kartvizit-App](https://github.com/bahadraksakal/kartvizit-app) | 3. Sınıf Yaz Dönemi (Staj) |
 | * [Bulus-Tanis-App](https://github.com/bahadraksakal/Bulus-Tanis-App) | 3. Sınıf Bahar Dönemi |
