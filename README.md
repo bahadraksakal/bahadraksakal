@@ -105,7 +105,7 @@
                         <td align="center"><img align="center" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/></td>
                     </tr> 
                     <tr>
-                        <td align="center" ><img align="center" width="114" height="30" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/></td>
+                        <td align="center" ><img align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/></td>
                         <td align="center" ></td>
                         <td align="center" ></td>
                         <td align="center" ></td>
