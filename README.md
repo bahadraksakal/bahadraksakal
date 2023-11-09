@@ -31,7 +31,7 @@
 | * [Mobile Authentication Mobil App - Node.js(Express.js), React Native, MongoDB](https://github.com/bahadraksakal/Mobile-Authentication-App#tr) | 3rd Grade Fall Semester |
 | * [Blow Up Box 2 Game - Unity](https://github.com/bahadraksakal/OyunProgramlaFinalProje-BlowUpBox2) | 3rd Grade Fall Semester |
 | * [Airway Record Creation System Windows Form App - .Net, SQL](https://github.com/bahadraksakal/Hava-Yolu-Kayit-Sistemi) | 3rd Grade Fall Semester |
-| * [University directory App | File Search App | Digital Clock With Alarm App - .Net, SQL](https://github.com/bahadraksakal/.NET-Programlama-Dersi-Vize-Final-Sorulari-Cozumlerim) | 3rd Grade Fall Semester |
+| * [University directory App - File Search App - Digital Clock With Alarm App - .Net, SQL](https://github.com/bahadraksakal/.NET-Programlama-Dersi-Vize-Final-Sorulari-Cozumlerim) | 3rd Grade Fall Semester |
 | * [Job, Demand And Tracking Web App For University - PHP, JavaScript, SQL, Bootstrap](https://github.com/bahadraksakal/Universite-Is-Talep-Takip) | 2nd grade Summer Term (Internship) |
 | * [Enterprise Resource Planning Web App For Dentists - PHP, JavaScript, SQL, Bootstrap](https://github.com/bahadraksakal/Dentist-ERP-FULL) | 2nd grade Spring Semester |
 | * [Betting Game BahoxBet - C](https://github.com/bahadraksakal/Bahis-Oyunu-Tuttur-Kazan-BahoxBet) | 2nd grade Spring Semester |
