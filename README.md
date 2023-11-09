@@ -104,6 +104,16 @@
                         <td align="center"><img align="center" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/></td>
                         <td align="center"><img align="center" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/></td>
                     </tr> 
+                    <tr>
+                        <td align="center" ><img align="center" src="https://cloud.githubusercontent.com/assets/15425071/23826719/0781a49c-06ab-11e7-847a-21dd995e0add.png"/></td>
+                        <td align="center" ><img align="center" src=""/></td>
+                        <td align="center" ><img align="center" src=""/></td>
+                        <td align="center" ><img align="center" src=""/></td>
+                        <td align="center"><img align="center" src="" /></td>
+                        <td align="center"><img align="center" src="" /></td>
+                        <td align="center"><img align="center" src=""/></td>
+                        <td align="center"><img align="center" src=""/></td>
+                    </tr> 
             </table>
 </div>
 
