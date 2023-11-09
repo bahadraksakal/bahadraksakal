@@ -24,10 +24,10 @@
 ## ⭐ My Projects
 | **:page_facing_up: Repositories**  | **:spiral_calendar:  Dates** |
 | --- | --- |
-| * [Stock Market Web API With Many Features - Asp.Net Core, MSSQL](https://github.com/bahadraksakal/MSE_StocksMarketAPI) | 4th Grade Fall Semester (Internship) :100: |
+| * [Stock Market Web API With Many Features - Asp.Net Core, MSSQL](https://github.com/bahadraksakal/MSE_StocksMarketAPI) | 4th Grade Fall Semester (Internship):100: |
 | * [Kubernates MultiNode Setup Ubuntu TR-EN Documentation](https://github.com/bahadraksakal/Kubernates-Kurulumu-Ubuntu-Tr-Kaynak) | 3rd Grade Summer Term (Internship) |
 | * [Create And Manage Business Card Web App - Node.js(Express.js), Angular, MongoDB](https://github.com/bahadraksakal/kartvizit-app) | 3rd Grade Summer Term (Internship) |
-| * [Meet & Greet Chat and Dating Web App - Node.js(Express.js), Vue.js, MongoDB ](https://github.com/bahadraksakal/Bulus-Tanis-App) | 3rd Grade Spring Semester :100: |
+| * [Meet & Greet Chat and Dating Web App - Node.js(Express.js), Vue.js, MongoDB ](https://github.com/bahadraksakal/Bulus-Tanis-App) | 3rd Grade Spring Semester:100: |
 | * [Mobile Authentication Mobil App - Node.js(Express.js), React Native, MongoDB](https://github.com/bahadraksakal/Mobile-Authentication-App#tr) | 3rd Grade Fall Semester |
 | * [Blow Up Box 2 Game - Unity](https://github.com/bahadraksakal/OyunProgramlaFinalProje-BlowUpBox2) | 3rd Grade Fall Semester |
 | * [Airway Record Creation System Windows Form App - .Net, SQL](https://github.com/bahadraksakal/Hava-Yolu-Kayit-Sistemi) | 3rd Grade Fall Semester |
