@@ -24,22 +24,22 @@
 ## ⭐ My Projects
 | **:page_facing_up: Repositories**  | **:spiral_calendar:  Dates** |
 | --- | --- |
-| * [Stock Market Web API With Many Features - Asp.Net Core, MSSQL](https://github.com/bahadraksakal/MSE_StocksMarketAPI) | 4. Sınıf Güz Dönemi (Staj) |
-| * [Kubernates MultiNode Setup Ubuntu TR-EN Documentation](https://github.com/bahadraksakal/Kubernates-Kurulumu-Ubuntu-Tr-Kaynak) | 3. Sınıf Yaz Dönemi (Staj) |
-| * [Create And Manage Business Card Web App - Angular](https://github.com/bahadraksakal/kartvizit-app) | 3. Sınıf Yaz Dönemi (Staj) |
-| * [Meet & Greet Chat and Dating Web App - Node.js(Express.js), Vue.js, MongoDB ](https://github.com/bahadraksakal/Bulus-Tanis-App) | 3. Sınıf Bahar Dönemi |
-| * [Mobile Authentication Mobil App - Node.js(Express.js), React Native, MongoDB](https://github.com/bahadraksakal/Mobile-Authentication-App#tr) | 3. Sınıf Güz Dönemi |
-| * [Blow Up Box 2 Game - Unity](https://github.com/bahadraksakal/OyunProgramlaFinalProje-BlowUpBox2) | 3. Sınıf Güz Dönemi |
-| * [Airway Record Creation System Windows Form App - .Net, SQL](https://github.com/bahadraksakal/Hava-Yolu-Kayit-Sistemi) | 3. Sınıf Güz Dönemi |
-| * [.NET-Programlama Dersi Vize Final Sorulari Cozumlerim - .Net](https://github.com/bahadraksakal/.NET-Programlama-Dersi-Vize-Final-Sorulari-Cozumlerim) | 3. Sınıf Güz Dönemi |
-| * [Job, Demand And Tracking Web App For University - PHP, JavaScript, SQL, Bootstrap](https://github.com/bahadraksakal/Universite-Is-Talep-Takip) | 2. Sınıf Yaz Dönemi (Staj) |
-| * [Enterprise Resource Planning Web App For Dentists - PHP, JavaScript, SQL, Bootstrap](https://github.com/bahadraksakal/Dentist-ERP-FULL) | 2. Sınıf Bahar Dönemi |
-| * [Betting Game BahoxBet - C](https://github.com/bahadraksakal/Bahis-Oyunu-Tuttur-Kazan-BahoxBet) | 2. Sınıf Bahar Dönemi |
-| * [Mutant Ant Game - JavaScript](https://github.com/bahadraksakal/WepProgramlamaProje-JSGAME-MUTANT-KARINCA) | 2. Sınıf Bahar Dönemi |
-| * [Hamming Code Converter And Calculator With Gui - Java](https://github.com/bahadraksakal/Hamming-Code-Genarator-With-Gui-2.-Sinif-Bilgisayar-Mimarisi-Dersi-Proje-Odevi) | 2. Sınıf Bahar Dönemi |
-| * [Banking Transactions App With Gui - Java](https://github.com/bahadraksakal/Java_Bahar_Donemi_Proje) | 1. Sınıf Bahar Dönemi |
-| * [Similarity Of Gene Sequences - Align With Chi-Square - Computational Biology Project - C](https://github.com/bahadraksakal/Java_HBG_Project) | 1. Sınıf Bahar Dönemi |
-| * [Language Identification and Natural Language Processing Project - C](https://github.com/bahadraksakal/Guz_Donemi_Projem_1.Sinif-) | 1. Sınıf Güz Dönemi |
+| * [Stock Market Web API With Many Features - Asp.Net Core, MSSQL](https://github.com/bahadraksakal/MSE_StocksMarketAPI) | 4th Grade Fall Semester (Internship) |
+| * [Kubernates MultiNode Setup Ubuntu TR-EN Documentation](https://github.com/bahadraksakal/Kubernates-Kurulumu-Ubuntu-Tr-Kaynak) | 3rd Grade Summer Term (Internship) |
+| * [Create And Manage Business Card Web App - Node.js(Express.js), Angular, MongoDB](https://github.com/bahadraksakal/kartvizit-app) | 3rd Grade Summer Term (Internship) |
+| * [Meet & Greet Chat and Dating Web App - Node.js(Express.js), Vue.js, MongoDB ](https://github.com/bahadraksakal/Bulus-Tanis-App) | 3rd Grade Spring Semester |
+| * [Mobile Authentication Mobil App - Node.js(Express.js), React Native, MongoDB](https://github.com/bahadraksakal/Mobile-Authentication-App#tr) | 3rd Grade Fall Semester |
+| * [Blow Up Box 2 Game - Unity](https://github.com/bahadraksakal/OyunProgramlaFinalProje-BlowUpBox2) | 3rd Grade Fall Semester |
+| * [Airway Record Creation System Windows Form App - .Net, SQL](https://github.com/bahadraksakal/Hava-Yolu-Kayit-Sistemi) | 3rd Grade Fall Semester |
+| * [.NET-Programlama Dersi Vize Final Sorulari Cozumlerim - .Net](https://github.com/bahadraksakal/.NET-Programlama-Dersi-Vize-Final-Sorulari-Cozumlerim) | 3rd Grade Fall Semester |
+| * [Job, Demand And Tracking Web App For University - PHP, JavaScript, SQL, Bootstrap](https://github.com/bahadraksakal/Universite-Is-Talep-Takip) | 2nd grade Summer Term (Internship) |
+| * [Enterprise Resource Planning Web App For Dentists - PHP, JavaScript, SQL, Bootstrap](https://github.com/bahadraksakal/Dentist-ERP-FULL) | 2nd grade Spring Semester |
+| * [Betting Game BahoxBet - C](https://github.com/bahadraksakal/Bahis-Oyunu-Tuttur-Kazan-BahoxBet) | 2nd grade Spring Semester |
+| * [Mutant Ant Game - JavaScript](https://github.com/bahadraksakal/WepProgramlamaProje-JSGAME-MUTANT-KARINCA) | 2nd grade Spring Semester |
+| * [Hamming Code Converter And Calculator With Gui - Java](https://github.com/bahadraksakal/Hamming-Code-Genarator-With-Gui-2.-Sinif-Bilgisayar-Mimarisi-Dersi-Proje-Odevi) | 2nd grade Spring Semester |
+| * [Banking Transactions App With Gui - Java](https://github.com/bahadraksakal/Java_Bahar_Donemi_Proje) | 1st Grade Spring Semester |
+| * [Similarity Of Gene Sequences Align With Chi-Square Computational Biology App With Gui - Java](https://github.com/bahadraksakal/Java_HBG_Project) | 1st Grade Spring Semester |
+| * [Language Identification and Natural Language Processing Project - C](https://github.com/bahadraksakal/Guz_Donemi_Projem_1.Sinif-) | 1st Grade Fall Semester |
 
 
 ## 📬 Connect With Me:
