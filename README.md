@@ -17,7 +17,7 @@
   <li><strong>BackEnd</strong>: NodeJS (Express.js), .NET, Java</li>
   <li><strong>FrontEnd</strong>: Angular, Vue </li>
   <li><strong>Database</strong>: MongoDB, MSSQL, MySQL</li>
-  <li><strong>DevOps</strong>: Docker-Kubernetes</li>
+  <li><strong>DevOps</strong>: Docker-Kubernetes, Git</li>
 </ul>      
  
 
