@@ -61,7 +61,7 @@
 </div>
 
 
-## :computer: Languages and Tools:
+## 💻 Languages and Tools:
 <div>
             <table>
                     <tr>
