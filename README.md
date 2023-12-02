@@ -107,7 +107,7 @@
                     <tr>
                         <td align="center" ><img align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/></td>
                         <td align="center" ><img align="center" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/></td>
-                        <td align="center" ><img align="center" src="![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></td>
+                        <td align="center" ><img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></td>
                         <td align="center" ></td>
                         <td align="center"></td>
                         <td align="center"></td>
